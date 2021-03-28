@@ -1,0 +1,3 @@
+before execution of this react js code 
+open terminal in root directory of that project and 
+run command "npm install" it will install all the pakeges which are required
